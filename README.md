@@ -1,4 +1,3 @@
-# Bienvenido
 class AboutMe {
     val firstName = "Ronal"
     val lastName = "Alarcón"

@@ -3,7 +3,7 @@ class AboutMe {
     val firstName = "Ronal"
     val lastName = "Alarcón"
     val linkedin = "https://www.linkedin.com/in/ronalksp/"
-+   val yearsOfExperience = 0.6f
++   val mothOfExperience = 6
     val role = "Junior dev Android "
 }
 ```
